@@ -1,8 +1,6 @@
-Peblo Story Buddy
+## Peblo Story Buddy
 
 An interactive, kid-friendly storytelling and quiz application built for the Peblo technical challenge — redesigned into a story discovery platform with selectable AI narrators, animated scene reading, a retry-friendly quiz, and a local progress/badges system.
-
-LIVE :- https://peblo-web-demo.vercel.app/
 
 Technical Choices & Architecture
 Framework Selection
